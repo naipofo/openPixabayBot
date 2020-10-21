@@ -11,7 +11,7 @@ const botNickname = process.env.BOT_NAME
 
 // about bot message
 bot.start(ctx=>{
-  ctx.replyWithDocument("https://raw.githubusercontent.com/naipofo/openPixabayBot/master/sticker.webp");
+  ctx.replyWithDocument("https://raw.githubusercontent.com/naipofo/openPixabayBot/main/sticker.webp");
   ctx.replyWithHTML(`This bot uses pixabay API to search for images and sends them via telegram inline.
 Try it with <code>@${botNickname} car</code>
 Built with node and telegraf.js`,
