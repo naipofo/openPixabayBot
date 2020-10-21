@@ -1,4 +1,7 @@
 {
+  "name": "open-pixabay-bot",
+  "license": "AGPL-3.0-only",
+  "repository": "github:naipofo/openPixabayBot",
   "dependencies": {
     "dotenv": "^8.2.0",
     "node-fetch": "^2.6.1",
