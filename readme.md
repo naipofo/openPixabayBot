@@ -1,7 +1,7 @@
 # Open Pixabay Bot
 It's a telegram bot using the [pixabay API](https://pixabay.com/api/docs) to serve images using telegram inline mode
 ## How it works
-![use case scenario video](https://raw.githubusercontent.com/naipofo/openPixabayBot/master/usecaseRecording.webp)
+![use case scenario video](https://raw.githubusercontent.com/naipofo/openPixabayBot/main/usecaseRecording.webp)
 
 The bot is quite simple. After getting a request form telegram, it fetches pitcures from pixabay API and responds with them to telegram.
 ## How to deploy
