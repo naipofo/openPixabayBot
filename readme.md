@@ -5,7 +5,7 @@ It's a telegram bot using the [pixabay API](https://pixabay.com/api/docs) to ser
 
 The bot is quite simple. After getting a request form telegram, it fetches pitcures from pixabay API and responds with them to telegram.
 ## How to deploy
-- Clone reposytory to your local drive
+- Clone repository to your local drive
 - Fill `example.env` with your api keys:
   * [Telegram bot father](https://t.me/botfather)
   * [Pixabay api](https://pixabay.com/api/docs)
